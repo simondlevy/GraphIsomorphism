@@ -9,7 +9,8 @@ Matlab or Octave and type
 This will use the original (localist) implementation from 
 [Pelillo (1999)](http://www.dsi.unive.it/~pelillo/papers/NeuralComputation%201999.pdf).
 To run the VSA implementation described in 
-[Levy & Gayler (2009)](http://home.wlu.edu/~levys/publications/#iccm_2009) type
+[Levy & Gayler (2009)](http://home.wlu.edu/~levys/publications/analogy09%20-%20gayler%20levy%20-%20final.pdf)
+type
 
 <pre>
 

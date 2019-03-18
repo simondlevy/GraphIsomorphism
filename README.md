@@ -1,6 +1,6 @@
 This repository contains Matlab/Octave code for running a demonstration of 
 solving graph isomorphism via replicator equations.  To try out the code, launch 
-Matlab or Octave and type
+Matlab, change to the directory containing the repository, and type
 <pre>
     addpath localist
     gidemo(fig1, fig1)
@@ -21,7 +21,7 @@ type
 Type
 <pre>
 
-    help dlidemo
+    help gidemo
 </pre>
 
 to learn what the input parameters are.
